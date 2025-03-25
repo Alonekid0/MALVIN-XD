@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "Put the session-id here.MALVIN-XD~MxxW2bwa#Xi2GOapApwQcA6DELw2Z58TDsfhtw4QNTLYY8fIRCL0",
       "required": true,
       "value": ""
     },  
@@ -53,8 +53,8 @@
     
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
-      "required": false,
-      "value": "false"  
+      "required": true,
+      "value": "true"  
     },    
   
     "AUTO_VOICE": {
@@ -100,7 +100,7 @@
     }, 
 
     "OWNER_NAME": {
-      "description": "Type Bot Owner Name.",
+      "description": "Type Bot Owner Name.muhammad",
       "required": false,
       "value": "Malvin King"
       
@@ -114,7 +114,7 @@
     }, 
 
     "BOT_NAME": {
-      "description": "Type here the bot name.",
+      "description": "Type here the bot name.Demon_bot",
       "required": false,
       "value": "✦ᴍᴀʟᴠɪɴ xᴅ v2✦"
 
@@ -196,7 +196,7 @@
     
     "CUSTOM_REACT_EMOJIS": {
       "description": "put here custom react react emojis.",
-      "required": false,
+      "required": true,
       "value": "💝,💖,💗,❤️‍🔥,❤️‍🩹,❤️,🩷,🧡,💛,💚,💙,🩵,💜,🤎,🖤,🩶,🤍"
     }, 
 
